@@ -66,6 +66,13 @@ textarea{
 }
 
 .saveBtn i:hover {
-  font-size: 20px;
+  font-size: 42px;
   transition: all .3s ease-in-out;
+}
+
+/* added this because I couldn't figure out for the life of me how to add a text input field directly to the div block */
+input {
+  background-color:transparent;
+  width: 100%;
+  height: 100%;
 }
