@@ -14,5 +14,5 @@ Here's the link to the Work Day Scheduler website: https://dylanjacobb.github.io
 
 Here's a a screenshot of the final/not final webpage:
 
-![webpage](https://user-images.githubusercontent.com/75706156/108803426-a29a4580-7568-11eb-8941-9995a483712b.png)
+![webpage](https://user-images.githubusercontent.com/75706156/108803961-05401100-756a-11eb-8b9c-ed5ae59effa9.png)
 
