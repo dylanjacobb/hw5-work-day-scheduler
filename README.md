@@ -1,8 +1,6 @@
 # hw5-work-day-scheduler
 Homework #5
 
-# hw5-work-day-scheduler
-
 ## **Project Description**
 For this project we wre tasked with creating a work day scheduler that changes colors according to what hour it currently is. We were tasked with the following assingments:
 * When the page is first loaded the current day is displayed at the top of the webpage
